@@ -1,0 +1,17 @@
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\bin\Debug\netcoreapp2.2\CalCNunitTest.deps.json
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\bin\Debug\netcoreapp2.2\CalCNunitTest.runtimeconfig.json
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\bin\Debug\netcoreapp2.2\CalCNunitTest.runtimeconfig.dev.json
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\bin\Debug\netcoreapp2.2\CalCNunitTest.dll
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\bin\Debug\netcoreapp2.2\CalCNunitTest.pdb
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\bin\Debug\netcoreapp2.2\BusinessLogic.dll
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\bin\Debug\netcoreapp2.2\BusinessLogic.pdb
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\obj\Debug\netcoreapp2.2\CalCNunitTest.csprojAssemblyReference.cache
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\obj\Debug\netcoreapp2.2\CalCNunitTest.csproj.CoreCompileInputs.cache
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\obj\Debug\netcoreapp2.2\CalCNunitTest.AssemblyInfoInputs.cache
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\obj\Debug\netcoreapp2.2\CalCNunitTest.AssemblyInfo.cs
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\obj\Debug\netcoreapp2.2\CalCNunitTest.csproj.CopyComplete
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\obj\Debug\netcoreapp2.2\CalCNunitTest.dll
+C:\Users\Devadmin\source\repos\SimpleCalc\CalCNunitTest\obj\Debug\netcoreapp2.2\CalCNunitTest.pdb

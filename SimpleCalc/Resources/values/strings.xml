@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+    <string name="action_settings">Settings</string>
+  <string-array name="operators">
+    <item>Add</item>
+    <item>Subtract</item>
+    <item>Multiply</item>
+    <item>Divide</item>
+  </string-array>
+</resources>
