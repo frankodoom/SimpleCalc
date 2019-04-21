@@ -180,3 +180,4 @@ C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\stamp\_CopyPdb
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\stamp\_CompileToDalvik.stamp
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\android\assets\System.Runtime.Extensions.dll

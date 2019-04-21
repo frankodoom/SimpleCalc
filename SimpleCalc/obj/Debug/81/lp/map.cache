@@ -19,3 +19,4 @@ Xamarin.Android.Support.v7.RecyclerView
 Xamarin.Android.Support.Vector.Drawable
 Xamarin.Essentials
 netstandard
+System.Runtime.Extensions

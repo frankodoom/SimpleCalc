@@ -6,3 +6,4 @@ C:\Users\Devadmin\source\repos\SimpleCalc\BusinessLogic\obj\Debug\netstandard1.6
 C:\Users\Devadmin\source\repos\SimpleCalc\BusinessLogic\obj\Debug\netstandard1.6\BusinessLogic.AssemblyInfo.cs
 C:\Users\Devadmin\source\repos\SimpleCalc\BusinessLogic\obj\Debug\netstandard1.6\BusinessLogic.dll
 C:\Users\Devadmin\source\repos\SimpleCalc\BusinessLogic\obj\Debug\netstandard1.6\BusinessLogic.pdb
+C:\Users\Devadmin\source\repos\SimpleCalc\BusinessLogic\obj\Debug\netstandard1.6\BusinessLogic.csprojAssemblyReference.cache

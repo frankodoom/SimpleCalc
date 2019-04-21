@@ -4,12 +4,15 @@ using Android.Support.V7.App;
 using Android.Runtime;
 using Android.Widget;
 using AlertDialog = Android.Support.V7.App.AlertDialog;
+using BusinessLogic;
+using BusinessLogic.Service.Interfaces;
 
 namespace SimpleCalc
 {
     [Activity(Label = "@string/app_name", Theme = "@style/AppTheme", MainLauncher = true)]
     public class MainActivity : AppCompatActivity
     {
+     
         private EditText editNum1, editNum2;
         private decimal num1, num2;
         private decimal output;
@@ -17,7 +20,8 @@ namespace SimpleCalc
         private Spinner operation;
         private  string selectedOperation;
         AlertDialog.Builder alert;
-
+        private IMathService mathService;
+  
 
         protected override void OnCreate(Bundle savedInstanceState)
         {
@@ -25,6 +29,10 @@ namespace SimpleCalc
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.activity_main);
+
+            //initialize DI Contianer
+            Container.Initialize();
+            mathService = Container.mathService;
 
             btnCompute = FindViewById<Button>(Resource.Id.btnCompute);
             operation = FindViewById<Spinner>(Resource.Id.spinner_operator);
@@ -46,6 +54,7 @@ namespace SimpleCalc
         {
             num1 = decimal.Parse(editNum1.Text);
             num2 = decimal.Parse(editNum2.Text);
+
             alert.SetTitle("Answer");
 
             if (num1.Equals(null))
@@ -62,28 +71,28 @@ namespace SimpleCalc
             switch (selectedOperation)
             {
                 case "Add":        
-                    output = num1 + num2;
+                    output = mathService.Add(num1,num2);
                     //Display Alert                          
                     alert.SetMessage("The sum is "+ output);
                     alert.Show();
                     break;
 
                 case "Subtract":
-                    output = num1 - num2;
+                   output = mathService.Subtract(num1,num2);
                     //Display Alert                          
                     alert.SetMessage("The difference is " + output);
                     alert.Show();
                     break;
 
                 case "Multiply":
-                    output = num1 * num2;
+                    output = mathService.Multiply(num1, num2);
                     //Display Alert                          
                     alert.SetMessage("The product is " + output);
                     alert.Show();
                     break;
 
                 case "Divide":
-                    output = num1 / num2;
+                    output = mathService.Divide(num1, num2);
                     //Display Alert                          
                     alert.SetMessage("The quotient is " + output);
                     alert.Show();
