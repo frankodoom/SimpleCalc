@@ -1,7 +1,5 @@
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.dll
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\SimpleCalc.pdb
-C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\com.companyname.SimpleCalc.apk
-C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\com.companyname.SimpleCalc-Signed.apk
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\Autofac.pdb
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\BusinessLogic.pdb
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\Mono.Android.pdb
@@ -35,7 +33,6 @@ C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\SimpleCalc.csp
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\SimpleCalc.csproj.CopyComplete
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\SimpleCalc.dll
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\SimpleCalc.pdb
-C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\android\bin\com.companyname.SimpleCalc.apk
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\res\layout\activity_main.xml
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\res\values\colors.xml
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\res\values\ic_launcher_background.xml
@@ -181,3 +178,6 @@ C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\stamp\_Resolve
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\stamp\_CompileToDalvik.stamp
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\android\assets\System.Runtime.Extensions.dll
+C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\net.accedegh.SimpleCalc.apk
+C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\net.accedegh.SimpleCalc-Signed.apk
+C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\android\bin\net.accedegh.SimpleCalc.apk
