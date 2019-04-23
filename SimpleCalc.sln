@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.28729.10
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalc", "SimpleCalc\SimpleCalc.csproj", "{355BE9DF-A91B-4877-92C5-2183BA56DC89}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{26BE67E2-E301-4019-B2B6-46E37E8ADC25}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{26BE67E2-E301-4019-B2B6-46E37E8ADC25}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalCNunitTest", "CalCNunitTest\CalCNunitTest.csproj", "{74DCFB2E-8FD1-4EAF-B35C-751E810BA578}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalCNunitTest", "CalCNunitTest\CalCNunitTest.csproj", "{74DCFB2E-8FD1-4EAF-B35C-751E810BA578}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -178,6 +178,7 @@ C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\stamp\_Resolve
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\stamp\_CompileToDalvik.stamp
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\android\assets\System.Runtime.Extensions.dll
-C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\com.companyname.SimpleCalc.apk
-C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\com.companyname.SimpleCalc-Signed.apk
-C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\android\bin\com.companyname.SimpleCalc.apk
+C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\res\drawable\demo.gif
+C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\net.accedegh.SimpleCalc.apk
+C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\bin\Debug\net.accedegh.SimpleCalc-Signed.apk
+C:\Users\Devadmin\source\repos\SimpleCalc\SimpleCalc\obj\Debug\81\android\bin\net.accedegh.SimpleCalc.apk
