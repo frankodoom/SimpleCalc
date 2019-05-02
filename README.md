@@ -3,7 +3,7 @@
 
 # SimpleCalc
 A Xamarin Android DEMO APP designed to introduce Automated Testing, Continuous Integration and Deployment with Azure DevOps and AppCenter. 
-This project contains Unit Tests with N.Unit, Dependency Injection with AutoFac and a shared .Net Standard Library containng the business logic.
+This project contains Unit Tests with N.Unit, Dependency Injection with AutoFac and a shared .Net Standard Library containing the business logic.
 
 
 <img src="https://github.com/frankodoom/SimpleCalc/blob/master/SimpleCalc/Resources/drawable/demo.gif"/>
